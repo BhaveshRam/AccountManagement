@@ -45,4 +45,4 @@ ID (INT): Specifying row specified to that ID\
 BondAm (Float): Bond Amount\
 BondDur (int): Duration of bond in years\
 CurTm (int): Current time of bond creation for calculation purposes\
-CurRwds (float): Current Rewards of the user\
+CurRwds (float): Current Rewards of the user
