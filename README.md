@@ -25,7 +25,7 @@ three tables:
 LOGININFO Table:
 Attributes:
 
-ID (INT): a unique ID given to every user at time of registration
+ID (INT): a unique ID given to every user at time of registration\
 Name (varchar): Name of the user.
 Email (varchar): Email ID of the user
 Password (varchar): Password of the user
@@ -35,8 +35,8 @@ Password (varchar): Password of the user
 UsrInf Table:
 Attributes:
 
-ID (INT): Specifying row specified to that ID
-AccBal (Float): Account Balance of the user
+ID (INT): Specifying row specified to that ID\
+AccBal (Float): Account Balance of the user\
 BondSt (Boolean): Status of bond whether bond is created or not
 FamReq (Boolean): Free Amount Request status whether claimed or not
 
