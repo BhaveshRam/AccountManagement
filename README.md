@@ -30,8 +30,6 @@ Name (varchar): Name of the user.\
 Email (varchar): Email ID of the user\
 Password (varchar): Password of the user\
 \
-\
-\
 UsrInf Table:\
 Attributes:\
 \
@@ -39,8 +37,6 @@ ID (INT): Specifying row specified to that ID\
 AccBal (Float): Account Balance of the user\
 BondSt (Boolean): Status of bond whether bond is created or not\
 FamReq (Boolean): Free Amount Request status whether claimed or not\
-\
-\
 \
 Bond Table:\
 Attributes:\
@@ -50,5 +46,3 @@ BondAm (Float): Bond Amount\
 BondDur (int): Duration of bond in years\
 CurTm (int): Current time of bond creation for calculation purposes\
 CurRwds (float): Current Rewards of the user\
-\
-\
